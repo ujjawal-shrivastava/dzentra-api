@@ -1,4 +1,4 @@
-<h2 align="center"><b><a href="https:/dzentra-task.herokuapp.com/api/ping">DZENTRA TASK API</a></b></h2>
+<h2 align="center"><b><a href="https://dzentra-task.herokuapp.com/api/ping">DZENTRA TASK API</a></b></h2>
 
 <h4 align="center">Node-Express based REST API</h4>
 
